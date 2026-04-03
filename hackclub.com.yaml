@@ -6086,3 +6086,7 @@ zwp:
 - ttl: 300
   type: A
   value: 172.99.233.117
+buildguildtanta:
+- ttl: 600
+  type: CNAME
+  value: amrloksha151.github.io.
